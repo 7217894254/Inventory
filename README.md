@@ -1,1 +1,1 @@
-# Inventory
+This is the inventry in python.
