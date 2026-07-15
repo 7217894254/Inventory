@@ -1,1 +1,1 @@
-A desktop Inventory Management System built using Python, Tkinter, and SQLite. It provides product management, stock tracking, CRUD operations, search functionality, and an intuitive graphical user interface.This is the inventry in python.
+
